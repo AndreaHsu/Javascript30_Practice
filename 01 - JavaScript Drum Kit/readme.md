@@ -15,6 +15,7 @@
 
 
 - [transition](https://developer.mozilla.org/zh-TW/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+    - 大多用於轉場、動畫過度時期
 
 - audio 
     - `.play()`、`.load()`、`.puase()`
@@ -30,5 +31,8 @@
     - `add(e)` 新增該物件的classname(e)
 
     - `remove(e)` 刪除該物件的classname(e)
+
+- 推薦網站
+    - [keycode](https://keycode.info/)
 
 
