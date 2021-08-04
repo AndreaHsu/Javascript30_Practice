@@ -1,5 +1,5 @@
 # NOTE
-- <video> 
+- `<video> `
     - 元素內本身含有`video.paused`的屬性，可偵測影片是否暫停
     - `video[play]()`或`video[pause]()`可實際操作撥放或暫停影片
     - 更改button 符號:
