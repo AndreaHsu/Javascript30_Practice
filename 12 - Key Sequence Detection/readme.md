@@ -1,0 +1,11 @@
+# NOTE
+- 引用 [cornify](https://www.cornify.com/js/cornify.js)的api
+    - `cornify_add()`可加入新元素
+- 輸入正確密碼便會出現驚喜圖示
+- 判斷輸入密碼正確與否
+    - `text.join('')`是用''連接array的字
+    - `text.splice(a,b,c)`:
+        - a:起始位置，若為負數則從後面數回來
+        - b:要刪除幾個元素
+        - c:開始的為加入元素，可從第一個參數位置開始塞陣列元素。
+    - `text.included()`可看輸入字中有無符合的密碼
